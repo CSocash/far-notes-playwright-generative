@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f5f7f3">
+    <title>FAA Regulations Study Log</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <a class="brand" href="#" aria-label="Part 91 Study Log home">
+          <span class="brand-mark" aria-hidden="true">
+            <img src="aircraft-front-view.png" alt="">
+          </span>
+          <span>FAR NOTES <span class="brand-divider">/</span> <span id="brand-part">PART 91</span></span>
+        </a>
+        <label class="part-picker">
+          <span>REGULATION PART</span>
+          <select id="part-select" aria-label="Select regulation part">
+            <option value="91">Part 91</option>
+            <option value="61">Part 61</option>
+          </select>
+        </label>
+        <div class="account-actions">
+          <span id="current-user"></span>
+          <button class="logout-button" id="logout" type="button">Log out</button>
+        </div>
+        <div class="local-indicator" id="connection-status"><span class="status-dot"></span> Connecting to database...</div>
+      </header>
+
+      <section class="intro" aria-labelledby="page-title">
+        <div class="eyebrow"><span class="eyebrow-line"></span> YOUR PERSONAL STUDY LOG</div>
+        <div class="intro-row">
+          <div>
+            <h1 id="page-title">Know the rules.<br><span>Own the cockpit.</span></h1>
+            <p class="intro-copy" id="intro-copy">A simple place to track your progress through the FAA's Part 91 regulations. One section at a time.</p>
+          </div>
+          <div class="progress-card" aria-label="Study progress">
+            <div class="progress-top"><span>OVERALL PROGRESS</span><span id="progress-percent">0%</span></div>
+            <div class="progress-track"><span id="progress-bar"></span></div>
+            <div class="progress-caption"><span id="progress-count">0 of 0 sections covered</span><span class="progress-icon" aria-hidden="true">↗</span></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="tracker" aria-labelledby="tracker-heading">
+        <div class="stats-row">
+          <div class="section-heading">
+            <div class="eyebrow"><span class="eyebrow-line"></span> THE STUDY LIST</div>
+            <h2 id="tracker-heading">Your regulations</h2>
+            <p class="section-caption">A starter list of commonly studied sections. Add or edit entries to make it yours.</p>
+          </div>
+          <div class="stats">
+            <div class="stat"><span class="stat-value" id="total-count">0</span><span class="stat-label">STUDY ITEMS</span></div>
+            <div class="stat"><span class="stat-value covered-value" id="covered-count">0</span><span class="stat-label">COVERED</span></div>
+            <div class="stat"><span class="stat-value remaining-value" id="remaining-count">0</span><span class="stat-label">TO GO</span></div>
+          </div>
+        </div>
+
+        <div class="toolbar">
+          <label class="search-wrap">
+            <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.8" cy="8.8" r="5.8"/><path d="m13.2 13.2 4 4"/></svg>
+            <input id="search" type="search" placeholder="Search regulations or notes..." aria-label="Search regulations or notes">
+            <kbd>/</kbd>
+          </label>
+          <div class="toolbar-actions">
+            <div class="filter-group" role="group" aria-label="Filter regulations">
+              <button class="filter-button is-active" data-filter="all" type="button">All <span id="filter-all-count">0</span></button>
+              <button class="filter-button" data-filter="uncovered" type="button">To study <span id="filter-uncovered-count">0</span></button>
+              <button class="filter-button" data-filter="covered" type="button">Covered <span id="filter-covered-count">0</span></button>
+            </div>
+            <button class="add-button" id="add-regulation" type="button"><span aria-hidden="true">+</span> Add section</button>
+          </div>
+        </div>
+
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th scope="col" class="regulation-col">SECTION / SUBSECTION</th>
+                <th scope="col" class="covered-col">COVERED</th>
+                <th scope="col" class="date-col">DATE COVERED</th>
+                <th scope="col" class="notes-col">NOTES</th>
+              </tr>
+            </thead>
+            <tbody id="regulation-rows"></tbody>
+          </table>
+          <div class="empty-state" id="empty-state" hidden>
+            <span class="empty-icon" aria-hidden="true">⌕</span>
+            <strong>No study items found</strong>
+            <span>Try another search, or add a regulation section to your list.</span>
+          </div>
+        </div>
+        <div class="table-footer">
+          <span id="results-count">Showing 0 sections</span>
+          <span class="footer-note"><span class="status-dot"></span> Your progress saves automatically</span>
+        </div>
+      </section>
+
+      <footer class="page-footer">
+        <span>BUILT FOR THE JOURNEY, NOT JUST THE CHECKRIDE.</span>
+        <span>Always verify current regulations with official FAA sources.</span>
+      </footer>
+    </main>
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <template id="row-template">
+      <tr>
+        <td class="subsection-cell">
+          <span class="subsection-reference"></span>
+          <span class="subsection-title"></span>
+        </td>
+        <td class="covered-cell">
+          <label class="coverage-control">
+            <input class="covered-input" type="checkbox">
+            <span class="checkmark" aria-hidden="true"></span>
+            <span class="covered-label">No</span>
+          </label>
+        </td>
+        <td class="date-cell"><input class="date-input" type="date" aria-label="Date covered"></td>
+        <td class="notes-cell"><textarea class="notes-input" rows="1" aria-label="Notes" placeholder="Add a note..."></textarea></td>
+      </tr>
+    </template>
+  </body>
+</html>

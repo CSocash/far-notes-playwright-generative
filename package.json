@@ -1,0 +1,13 @@
+{
+  "name": "part-91-study-log",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A local Part 91 regulation study tracker backed by SQLite.",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "setup-user": "node setup-user.js"
+  }
+}

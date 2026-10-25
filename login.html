@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f5f7f3">
+    <title>Sign in · FAA Regulations Study Log</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <script src="login.js" defer></script>
+  </head>
+  <body class="auth-page">
+    <main class="auth-shell">
+      <a class="brand" href="/login" aria-label="FAA Regulations Study Log sign in">
+        <span class="brand-mark" aria-hidden="true">
+          <img src="aircraft-front-view.png" alt="">
+        </span>
+        <span>FAR NOTES <span class="brand-divider">/</span> FAA REGS</span>
+      </a>
+
+      <section class="auth-card" aria-labelledby="auth-title">
+        <div class="eyebrow"><span class="eyebrow-line"></span> YOUR PERSONAL STUDY LOG</div>
+        <h1 id="auth-title">Welcome back.</h1>
+        <p class="auth-copy">Sign in to continue your FAA regulations study log.</p>
+        <form id="login-form">
+          <label class="auth-label" for="username">Username or email</label>
+          <input class="auth-input" id="username" name="username" type="text" autocomplete="username" required autofocus>
+          <label class="auth-label" for="password">Password</label>
+          <input class="auth-input" id="password" name="password" type="password" autocomplete="current-password" required>
+          <p class="form-error" id="login-error" role="alert" hidden></p>
+          <button class="auth-submit" type="submit">Sign in</button>
+        </form>
+        <a class="auth-link" href="/forgot-password">Forgot password?</a>
+        <a class="auth-link" href="/create-account">Create an account</a>
+      </section>
+      <footer class="auth-footer">Always verify current regulations with official FAA sources.</footer>
+    </main>
+  </body>
+</html>

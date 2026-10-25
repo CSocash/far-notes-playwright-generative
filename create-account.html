@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f5f7f3">
+    <title>Create account · FAA Regulations Study Log</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <script src="create-account.js" defer></script>
+  </head>
+  <body class="auth-page">
+    <main class="auth-shell">
+      <a class="brand" href="/login" aria-label="Return to sign in">
+        <span class="brand-mark" aria-hidden="true">
+          <img src="aircraft-front-view.png" alt="">
+        </span>
+        <span>FAR NOTES <span class="brand-divider">/</span> FAA REGS</span>
+      </a>
+      <section class="auth-card" aria-labelledby="auth-title">
+        <div class="eyebrow"><span class="eyebrow-line"></span> YOUR PERSONAL STUDY LOG</div>
+        <h1 id="auth-title">Create your account.</h1>
+        <p class="auth-copy">Create a separate study log with a username, email address, and a strong password.</p>
+        <form id="create-account-form">
+          <label class="auth-label" for="new-username">Username</label>
+          <input class="auth-input" id="new-username" name="username" type="text" autocomplete="username" minlength="1" maxlength="64" aria-describedby="username-help" required>
+          <p class="auth-copy" id="username-help">Use 1-64 letters, numbers, periods, underscores, or hyphens.</p>
+          <label class="auth-label" for="new-email">Email address</label>
+          <input class="auth-input" id="new-email" name="email" type="email" autocomplete="email" maxlength="254" required>
+          <label class="auth-label" for="new-password">Password</label>
+          <input class="auth-input" id="new-password" name="password" type="password" autocomplete="new-password" minlength="15" aria-describedby="password-help" required>
+          <p class="auth-copy" id="password-help">Use at least 15 characters. A long passphrase is a good choice; uppercase, numbers, and symbols are not required.</p>
+          <p class="form-error" id="create-account-error" role="alert" hidden></p>
+          <button class="auth-submit" type="submit">Create account</button>
+        </form>
+        <p class="form-success" id="create-account-success" role="status" hidden>Account created successfully. <a href="/login">Return to the login page</a> to sign in.</p>
+        <a class="auth-link" href="/login">Back to sign in</a>
+      </section>
+      <footer class="auth-footer">Your account has a separate study log. Passwords are stored as salted hashes.</footer>
+    </main>
+  </body>
+</html>

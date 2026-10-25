@@ -1,0 +1,1992 @@
+{
+  "source": "eCFR Title 14, Parts 61 and 91",
+  "sourceDate": "2026-06-01",
+  "parts": {
+    "61": {
+      "61.103": [
+        {
+          "code": "a",
+          "title": "Minimum age: 17 for ratings other than glider or balloon."
+        },
+        {
+          "code": "b",
+          "title": "Minimum age: 16 for glider or balloon ratings."
+        },
+        {
+          "code": "c",
+          "title": "Be able to read, speak, write, and understand the English language."
+        },
+        {
+          "code": "d",
+          "title": "Receive an instructor endorsement confirming the required aeronautical knowledge preparation."
+        },
+        {
+          "code": "e",
+          "title": "Pass the required knowledge test on the aeronautical knowledge areas listed in § 61.105(b) of this part."
+        },
+        {
+          "code": "f",
+          "title": "Complete required flight training and receive an instructor endorsement."
+        },
+        {
+          "code": "g",
+          "title": "Meet the required aeronautical experience for the aircraft rating sought."
+        },
+        {
+          "code": "h",
+          "title": "Pass the practical test for the aircraft rating sought."
+        },
+        {
+          "code": "i",
+          "title": "Meet applicable requirements for the aircraft category and class rating."
+        },
+        {
+          "code": "j",
+          "title": "Hold a U.S. student, sport, or recreational pilot certificate."
+        }
+      ],
+      "61.105": [
+        {
+          "code": "a",
+          "title": "General"
+        },
+        {
+          "code": "b",
+          "title": "Aeronautical knowledge areas"
+        }
+      ],
+      "61.107": [
+        {
+          "code": "a",
+          "title": "General"
+        },
+        {
+          "code": "b",
+          "title": "Areas of operation"
+        }
+      ],
+      "61.109": [
+        {
+          "code": "a",
+          "title": "For an airplane single-engine rating"
+        },
+        {
+          "code": "b",
+          "title": "For an airplane multiengine rating"
+        },
+        {
+          "code": "c",
+          "title": "For a helicopter rating"
+        },
+        {
+          "code": "d",
+          "title": "For a gyroplane rating"
+        },
+        {
+          "code": "e",
+          "title": "For a powered-lift rating"
+        },
+        {
+          "code": "f",
+          "title": "For a glider category rating"
+        },
+        {
+          "code": "g",
+          "title": "For an airship rating"
+        },
+        {
+          "code": "h",
+          "title": "For a balloon rating"
+        },
+        {
+          "code": "i",
+          "title": "One cross-country flight of over 100 nautical miles total distance; and…"
+        },
+        {
+          "code": "j",
+          "title": "For a weight-shift-control aircraft rating"
+        },
+        {
+          "code": "k",
+          "title": "Permitted credit for use of a full flight simulator or flight training device"
+        },
+        {
+          "code": "l",
+          "title": "Permitted credit for flight training received from a flight instructor with a sport pilot rating"
+        }
+      ],
+      "61.123": [
+        {
+          "code": "a",
+          "title": "Be at least 18 years of age;…"
+        },
+        {
+          "code": "b",
+          "title": "Be able to read, speak, write, and understand the English language."
+        },
+        {
+          "code": "c",
+          "title": "Receive a logbook endorsement from an authorized instructor who:"
+        },
+        {
+          "code": "d",
+          "title": "Pass the required knowledge test on the aeronautical knowledge areas listed in § 61.125 of this part;…"
+        },
+        {
+          "code": "e",
+          "title": "Receive the required training and a logbook endorsement from an authorized instructor who:"
+        },
+        {
+          "code": "f",
+          "title": "Meet the aeronautical experience requirements of this subpart that apply to the aircraft category and class rating sought before applying for the…"
+        },
+        {
+          "code": "g",
+          "title": "Pass the required practical test on the areas of operation listed in § 61.127(b) of this part that apply to the aircraft category and class rating…"
+        },
+        {
+          "code": "h",
+          "title": "Hold at least a private pilot certificate issued under this part or meet the requirements of § 61.73; and…"
+        },
+        {
+          "code": "i",
+          "title": "Comply with the sections of this part that apply to the aircraft category and class rating sought."
+        }
+      ],
+      "61.125": [
+        {
+          "code": "a",
+          "title": "General"
+        },
+        {
+          "code": "b",
+          "title": "Aeronautical knowledge areas"
+        }
+      ],
+      "61.127": [
+        {
+          "code": "a",
+          "title": "General"
+        },
+        {
+          "code": "b",
+          "title": "Areas of operation"
+        }
+      ],
+      "61.129": [
+        {
+          "code": "a",
+          "title": "For an airplane single-engine rating"
+        },
+        {
+          "code": "b",
+          "title": "For an airplane multiengine rating"
+        },
+        {
+          "code": "c",
+          "title": "For a helicopter rating"
+        },
+        {
+          "code": "d",
+          "title": "For a gyroplane rating"
+        },
+        {
+          "code": "e",
+          "title": "For a powered-lift rating"
+        },
+        {
+          "code": "f",
+          "title": "For a glider rating"
+        },
+        {
+          "code": "g",
+          "title": "For an airship rating"
+        },
+        {
+          "code": "h",
+          "title": "For a balloon rating"
+        },
+        {
+          "code": "i",
+          "title": "50 hours in airplanes; and…"
+        },
+        {
+          "code": "j",
+          "title": "Technically advanced airplane"
+        }
+      ],
+      "61.153": [
+        {
+          "code": "a",
+          "title": "Meet the following age requirements:"
+        },
+        {
+          "code": "b",
+          "title": "Be able to read, speak, write, and understand the English language."
+        },
+        {
+          "code": "c",
+          "title": "Be of good moral character;…"
+        },
+        {
+          "code": "d",
+          "title": "Meet at least one of the following requirements:"
+        },
+        {
+          "code": "e",
+          "title": "For an airline transport pilot certificate with an airplane category multiengine class rating or an airline transport pilot certificate obtained…"
+        },
+        {
+          "code": "f",
+          "title": "Meet the aeronautical experience requirements of this subpart that apply to the aircraft category and class rating sought before applying for the…"
+        },
+        {
+          "code": "g",
+          "title": "Pass a knowledge test on the aeronautical knowledge areas of § 61.155(c) of this part that apply to the aircraft category and class rating sought;…"
+        },
+        {
+          "code": "h",
+          "title": "Pass the practical test on the areas of operation listed in § 61.157(e) of this part that apply to the aircraft category and class rating sought; and…"
+        },
+        {
+          "code": "i",
+          "title": "Was issued by a contracting State to the Convention on International Civil Aviation; and…"
+        }
+      ],
+      "61.155": [
+        {
+          "code": "a",
+          "title": "General"
+        },
+        {
+          "code": "b",
+          "title": "Aircraft type rating"
+        },
+        {
+          "code": "c",
+          "title": "Aeronautical knowledge areas"
+        }
+      ],
+      "61.159": [
+        {
+          "code": "a",
+          "title": "Except as provided in paragraphs (b), (c), and (d) of this section, a person who is applying for an airline transport pilot certificate with an…"
+        },
+        {
+          "code": "b",
+          "title": "A person who has performed at least 20 night takeoffs and landings to a full stop may substitute each additional night takeoff and landing to a…"
+        },
+        {
+          "code": "c",
+          "title": "A commercial pilot may log second-in-command pilot time toward the aeronautical experience requirements of paragraph (a) of this section and the…"
+        },
+        {
+          "code": "d",
+          "title": "A commercial pilot may log the following flight engineer flight time toward the 1,500 hours of total time as a pilot required by paragraph (a) of…"
+        },
+        {
+          "code": "e",
+          "title": "An applicant who credits time under paragraphs (b) through (d) of this section and § 61.51(f)(4) is issued an airline transport pilot certificate…"
+        },
+        {
+          "code": "f",
+          "title": "An applicant is entitled to an airline transport pilot certificate without the ICAO limitation specified under paragraph (e) of this section when…"
+        }
+      ],
+      "61.183": [
+        {
+          "code": "a",
+          "title": "Be at least 18 years of age;…"
+        },
+        {
+          "code": "b",
+          "title": "Be able to read, speak, write, and understand the English language."
+        },
+        {
+          "code": "c",
+          "title": "Hold either a commercial pilot certificate or airline transport pilot certificate with:"
+        },
+        {
+          "code": "d",
+          "title": "Receive a logbook endorsement from an authorized instructor on the fundamentals of instructing listed in § 61.185 of this part appropriate to the…"
+        },
+        {
+          "code": "e",
+          "title": "Pass a knowledge test on the areas listed in § 61.185(a)(1) of this part, unless the applicant:"
+        },
+        {
+          "code": "f",
+          "title": "Pass a knowledge test on the aeronautical knowledge areas listed in § 61.185(a)(2) and (a)(3) of this part that are appropriate to the flight…"
+        },
+        {
+          "code": "g",
+          "title": "Receive a logbook endorsement from an authorized instructor on the areas of operation listed in § 61.187(b) of this part, appropriate to the…"
+        },
+        {
+          "code": "h",
+          "title": "Pass the required practical test that is appropriate to the flight instructor rating sought in an:"
+        },
+        {
+          "code": "i",
+          "title": "A flight instructor certificate with an airplane category and single-engine class rating;…"
+        },
+        {
+          "code": "j",
+          "title": "Log at least 15 hours as pilot in command in the category and class of aircraft that is appropriate to the flight instructor rating sought; and…"
+        },
+        {
+          "code": "k",
+          "title": "Comply with the appropriate sections of this part that apply to the flight instructor rating sought."
+        }
+      ],
+      "61.185": [
+        {
+          "code": "a",
+          "title": "A person who is applying for a flight instructor certificate must receive and log ground training from an authorized instructor on:"
+        },
+        {
+          "code": "b",
+          "title": "The following applicants do not need to comply with paragraph (a)(1) of this section:"
+        }
+      ],
+      "61.187": [
+        {
+          "code": "a",
+          "title": "General"
+        },
+        {
+          "code": "b",
+          "title": "Areas of operation"
+        },
+        {
+          "code": "c",
+          "title": "The flight training required by this section may be accomplished:"
+        }
+      ],
+      "61.189": [
+        {
+          "code": "a",
+          "title": "A flight instructor must sign the logbook of each person to whom that instructor has given flight training or ground training."
+        },
+        {
+          "code": "b",
+          "title": "A flight instructor must maintain a record in a logbook or a separate document that contains the following:"
+        },
+        {
+          "code": "c",
+          "title": "Each flight instructor must retain the records required by this section for at least 3 years."
+        }
+      ],
+      "61.197": [
+        {
+          "code": "a",
+          "title": "A person may exercise the privileges of the person's flight instructor certificate only if, within the preceding 24 calendar months, that person…"
+        },
+        {
+          "code": "b",
+          "title": "A person who holds a flight instructor certificate may establish recent experience by satisfying one of the following requirements—…"
+        },
+        {
+          "code": "c",
+          "title": "Except as provided in paragraph (f) of this section, a person who fails to establish recent experience in accordance with paragraph (b) of this…"
+        },
+        {
+          "code": "d",
+          "title": "The practical test required by paragraph (b)(1) of this section may be accomplished in a full flight simulator or flight training device if the…"
+        },
+        {
+          "code": "e",
+          "title": "A person who holds an unexpired flight instructor certificate issued before December 1, 2024, may renew that certificate by establishing recent…"
+        },
+        {
+          "code": "f",
+          "title": "A person who qualifies for the relief prescribed in § 61.40 may establish recent experience in accordance with paragraph (b) of this section,…"
+        }
+      ],
+      "61.23": [
+        {
+          "code": "a",
+          "title": "Operations requiring a medical certificate"
+        },
+        {
+          "code": "b",
+          "title": "Operations not requiring a medical certificate"
+        },
+        {
+          "code": "c",
+          "title": "Operations requiring either a medical certificate or U.S. driver's license"
+        },
+        {
+          "code": "d",
+          "title": "Duration of a medical certificate"
+        }
+      ],
+      "61.3": [
+        {
+          "code": "a",
+          "title": "Required pilot certificate for operating a civil aircraft of the United States"
+        },
+        {
+          "code": "b",
+          "title": "Required pilot certificate for operating a foreign-registered aircraft within the United States"
+        },
+        {
+          "code": "c",
+          "title": "Medical certificate"
+        },
+        {
+          "code": "d",
+          "title": "Flight instructor certificate"
+        },
+        {
+          "code": "e",
+          "title": "Instrument rating"
+        },
+        {
+          "code": "f",
+          "title": "Category II pilot authorization"
+        },
+        {
+          "code": "g",
+          "title": "Category III pilot authorization"
+        },
+        {
+          "code": "h",
+          "title": "Category A aircraft pilot authorization"
+        },
+        {
+          "code": "i",
+          "title": "A pilot certificate issued under this part and in accordance with § 61.19;…"
+        },
+        {
+          "code": "j",
+          "title": "Age limitation for certain operations"
+        },
+        {
+          "code": "k",
+          "title": "Special purpose pilot authorization"
+        },
+        {
+          "code": "l",
+          "title": "Inspection of certificate"
+        },
+        {
+          "code": "m",
+          "title": "For a person who possesses a sport pilot certificate"
+        }
+      ],
+      "61.31": [
+        {
+          "code": "a",
+          "title": "Type ratings required"
+        },
+        {
+          "code": "b",
+          "title": "Authorization in lieu of a type rating"
+        },
+        {
+          "code": "c",
+          "title": "Aircraft category, class, and type ratings: Limitations on the carriage of persons, or operating for compensation or hire"
+        },
+        {
+          "code": "d",
+          "title": "Aircraft category, class, and type ratings: Limitations on operating an aircraft as the pilot in command"
+        },
+        {
+          "code": "e",
+          "title": "Additional training required for operating complex airplanes"
+        },
+        {
+          "code": "f",
+          "title": "Additional training required for operating high-performance airplanes"
+        },
+        {
+          "code": "g",
+          "title": "Additional training required for operating pressurized aircraft capable of operating at high altitudes"
+        },
+        {
+          "code": "h",
+          "title": "Additional aircraft type-specific training"
+        },
+        {
+          "code": "i",
+          "title": "Involves only a ferry flight, training flight, test flight, or practical test for a pilot certificate or rating;…"
+        },
+        {
+          "code": "j",
+          "title": "Additional training required for operating a glider"
+        },
+        {
+          "code": "k",
+          "title": "Additional training required for night vision goggle operations"
+        },
+        {
+          "code": "l",
+          "title": "Additional aircraft model-specific flight training"
+        },
+        {
+          "code": "m",
+          "title": "Exceptions"
+        }
+      ],
+      "61.35": [
+        {
+          "code": "a",
+          "title": "An applicant for a knowledge test must have:"
+        },
+        {
+          "code": "b",
+          "title": "The Administrator shall specify the minimum passing grade for the knowledge test."
+        }
+      ],
+      "61.39": [
+        {
+          "code": "a",
+          "title": "Except as provided in paragraphs (b), (c), (e), and (f) of this section, to be eligible for a practical test for a certificate or rating issued…"
+        },
+        {
+          "code": "b",
+          "title": "Except as provided in paragraph (e) of this section, an applicant for an airline transport pilot certificate with an airplane category multiengine…"
+        },
+        {
+          "code": "c",
+          "title": "Except as provided in paragraph (e) of this section, an applicant for an airline transport pilot certificate with a rating other than those…"
+        },
+        {
+          "code": "d",
+          "title": "In addition to the requirements in paragraph (a) of this section, to be eligible for a practical test for an airline transport pilot certificate…"
+        },
+        {
+          "code": "e",
+          "title": "An applicant for an airman certificate or rating issued under this part 61 may take a practical test with an expired knowledge test if the…"
+        },
+        {
+          "code": "f",
+          "title": "A person is not required to comply with the provisions of paragraph (a)(6) of this section if that person:"
+        },
+        {
+          "code": "g",
+          "title": "If all increments of the practical test for a certificate or rating are not completed on the same date, then all the remaining increments of the…"
+        },
+        {
+          "code": "h",
+          "title": "If all increments of the practical test for a certificate or rating are not completed within 2 calendar months after the month the applicant began…"
+        }
+      ],
+      "61.51": [
+        {
+          "code": "a",
+          "title": "Training time and aeronautical experience"
+        },
+        {
+          "code": "b",
+          "title": "Logbook entries"
+        },
+        {
+          "code": "c",
+          "title": "Logging of pilot time"
+        },
+        {
+          "code": "d",
+          "title": "Logging of solo flight time"
+        },
+        {
+          "code": "e",
+          "title": "Logging pilot-in-command flight time"
+        },
+        {
+          "code": "f",
+          "title": "Logging second-in-command flight time"
+        },
+        {
+          "code": "g",
+          "title": "Logging instrument time"
+        },
+        {
+          "code": "h",
+          "title": "Logging training time"
+        },
+        {
+          "code": "i",
+          "title": "Date."
+        },
+        {
+          "code": "j",
+          "title": "Aircraft requirements for logging flight time"
+        },
+        {
+          "code": "k",
+          "title": "Logging night vision goggle time"
+        }
+      ],
+      "61.53": [
+        {
+          "code": "a",
+          "title": "Operations that require a medical certificate"
+        },
+        {
+          "code": "b",
+          "title": "Operations that do not require a medical certificate"
+        },
+        {
+          "code": "c",
+          "title": "Operations requiring a medical certificate or a U.S. driver's license"
+        }
+      ],
+      "61.56": [
+        {
+          "code": "a",
+          "title": "Except as provided in paragraphs (b) and (f) of this section, a flight review consists of a minimum of 1 hour of flight training and 1 hour of…"
+        },
+        {
+          "code": "b",
+          "title": "Glider pilots may substitute a minimum of three instructional flights in a glider, each of which includes a flight to traffic pattern altitude, in…"
+        },
+        {
+          "code": "c",
+          "title": "Except as provided in paragraphs (d), (e), and (g) of this section, no person may act as pilot in command of an aircraft unless, since the…"
+        },
+        {
+          "code": "d",
+          "title": "A person who has, within the period specified in paragraph (c) of this section, passed any of the following need not accomplish the flight review…"
+        },
+        {
+          "code": "e",
+          "title": "A person who has, within the period specified in paragraph (c) of this section, satisfactorily accomplished one or more phases of an FAA-sponsored…"
+        },
+        {
+          "code": "f",
+          "title": "A person who holds a flight instructor certificate need not accomplish the one hour of ground training specified in paragraph (a) of this section…"
+        },
+        {
+          "code": "g",
+          "title": "A student pilot need not accomplish the flight review required by this section provided the student pilot is undergoing training for a certificate…"
+        },
+        {
+          "code": "h",
+          "title": "The requirements of this section may be accomplished in combination with the requirements of § 61.57 and other applicable recent experience…"
+        },
+        {
+          "code": "i",
+          "title": "The issuance of a flight instructor certificate,"
+        }
+      ],
+      "61.57": [
+        {
+          "code": "a",
+          "title": "General experience"
+        },
+        {
+          "code": "b",
+          "title": "Night takeoff and landing experience"
+        },
+        {
+          "code": "c",
+          "title": "Instrument experience"
+        },
+        {
+          "code": "d",
+          "title": "Instrument proficiency check"
+        },
+        {
+          "code": "e",
+          "title": "Exceptions"
+        },
+        {
+          "code": "f",
+          "title": "Night vision goggle operating experience"
+        },
+        {
+          "code": "g",
+          "title": "Night vision goggle proficiency check"
+        }
+      ],
+      "61.65": [
+        {
+          "code": "a",
+          "title": "General"
+        },
+        {
+          "code": "b",
+          "title": "Aeronautical knowledge"
+        },
+        {
+          "code": "c",
+          "title": "Flight proficiency"
+        },
+        {
+          "code": "d",
+          "title": "Aeronautical experience for the instrument-airplane rating"
+        },
+        {
+          "code": "e",
+          "title": "Aeronautical experience for the instrument-helicopter rating"
+        },
+        {
+          "code": "f",
+          "title": "Aeronautical experience for the instrument-powered-lift rating"
+        },
+        {
+          "code": "g",
+          "title": "An applicant for a combined private pilot certificate with an instrument rating may satisfy the cross-country time requirements of this section by…"
+        },
+        {
+          "code": "h",
+          "title": "Use of full flight simulators or flight training devices"
+        },
+        {
+          "code": "i",
+          "title": "An airplane, helicopter, or powered-lift appropriate to the rating sought; or…"
+        },
+        {
+          "code": "j",
+          "title": "Except as provided in paragraph (h)(1) of this section, a person may not credit more than 20 total hours of instrument time in a full flight…"
+        }
+      ],
+      "61.83": [
+        {
+          "code": "a",
+          "title": "Be at least 16 years of age for other than the operation of a glider or balloon."
+        },
+        {
+          "code": "b",
+          "title": "Be at least 14 years of age for the operation of a glider or balloon."
+        },
+        {
+          "code": "c",
+          "title": "Be able to read, speak, write, and understand the English language."
+        }
+      ],
+      "61.87": [
+        {
+          "code": "a",
+          "title": "General"
+        },
+        {
+          "code": "b",
+          "title": "Aeronautical knowledge"
+        },
+        {
+          "code": "c",
+          "title": "Pre-solo flight training"
+        },
+        {
+          "code": "d",
+          "title": "Maneuvers and procedures for pre-solo flight training in a single-engine airplane"
+        },
+        {
+          "code": "e",
+          "title": "Maneuvers and procedures for pre-solo flight training in a multiengine airplane"
+        },
+        {
+          "code": "f",
+          "title": "Maneuvers and procedures for pre-solo flight training in a helicopter"
+        },
+        {
+          "code": "g",
+          "title": "Maneuvers and procedures for pre-solo flight training in a gyroplane"
+        },
+        {
+          "code": "h",
+          "title": "Maneuvers and procedures for pre-solo flight training in a powered-lift"
+        },
+        {
+          "code": "i",
+          "title": "Applicable sections of parts 61 and 91 of this chapter;…"
+        },
+        {
+          "code": "j",
+          "title": "Maneuvers and procedures for pre-solo flight training in an airship"
+        },
+        {
+          "code": "k",
+          "title": "Maneuvers and procedures for pre-solo flight training in a balloon"
+        },
+        {
+          "code": "l",
+          "title": "Maneuvers and procedures for pre-solo flight training in a powered parachute"
+        },
+        {
+          "code": "m",
+          "title": "Maneuvers and procedures for pre-solo flight training in a weight-shift-control aircraft"
+        },
+        {
+          "code": "n",
+          "title": "Limitations on student pilots operating an aircraft in solo flight"
+        },
+        {
+          "code": "o",
+          "title": "Limitations on student pilots operating an aircraft in solo flight at night"
+        },
+        {
+          "code": "p",
+          "title": "Limitations on flight instructors authorizing solo flight"
+        }
+      ],
+      "61.89": [
+        {
+          "code": "a",
+          "title": "A student pilot may not act as pilot in command of an aircraft:"
+        },
+        {
+          "code": "b",
+          "title": "A student pilot may not act as a required pilot flight crewmember on any aircraft for which more than one pilot is required by the type…"
+        },
+        {
+          "code": "c",
+          "title": "A student pilot seeking a sport pilot certificate must comply with the provisions of paragraphs (a) and (b) of this section and may not act as…"
+        },
+        {
+          "code": "d",
+          "title": "The holder of a student pilot certificate may act as pilot in command of an aircraft without holding a medical certificate issued under part 67 of…"
+        }
+      ],
+      "61.93": [
+        {
+          "code": "a",
+          "title": "General"
+        },
+        {
+          "code": "b",
+          "title": "Authorization to perform certain solo flights and cross-country flights"
+        },
+        {
+          "code": "c",
+          "title": "Endorsements for solo cross-country flights"
+        },
+        {
+          "code": "d",
+          "title": "Limitations on authorized instructors to permit solo cross-country flights"
+        },
+        {
+          "code": "e",
+          "title": "Maneuvers and procedures for cross-country flight training in a single-engine airplane"
+        },
+        {
+          "code": "f",
+          "title": "Maneuvers and procedures for cross-country flight training in a multiengine airplane"
+        },
+        {
+          "code": "g",
+          "title": "Maneuvers and procedures for cross-country flight training in a helicopter"
+        },
+        {
+          "code": "h",
+          "title": "Maneuvers and procedures for cross-country flight training in a gyroplane"
+        },
+        {
+          "code": "i",
+          "title": "Conducting a solo cross-country flight, or any flight greater than 25 nautical miles from the airport from where the flight originated."
+        },
+        {
+          "code": "j",
+          "title": "Maneuvers and procedures for cross-country flight training in a glider"
+        },
+        {
+          "code": "k",
+          "title": "Maneuvers and procedures for cross-country flight training in an airship"
+        },
+        {
+          "code": "l",
+          "title": "Maneuvers and procedures for cross-country flight training in a powered parachute"
+        },
+        {
+          "code": "m",
+          "title": "Maneuvers and procedures for cross-country flight training in a weight-shift-control aircraft"
+        }
+      ]
+    },
+    "91": {
+      "91.1": [
+        {
+          "code": "a",
+          "title": "Except as provided in paragraphs (b), (c), (e), and (f) of this section and §§ 91.701 and 91.703, this part prescribes rules governing the…"
+        },
+        {
+          "code": "b",
+          "title": "Each person operating an aircraft in the airspace overlying the waters between 3 and 12 nautical miles from the coast of the United States must…"
+        },
+        {
+          "code": "c",
+          "title": "This part applies to each person on board an aircraft being operated under this part, unless otherwise specified."
+        },
+        {
+          "code": "d",
+          "title": "This part also establishes requirements for operators to take actions to support the continued airworthiness of each aircraft."
+        },
+        {
+          "code": "e",
+          "title": "This part does not apply to any aircraft or vehicle governed by part 103 of this chapter, or subparts B, C, or D of part 101 of this chapter."
+        },
+        {
+          "code": "f",
+          "title": "Except as provided in §§ 107.13, 107.27, 107.47, 107.57, and 107.59 of this chapter, this part does not apply to any aircraft governed by part 107…"
+        },
+        {
+          "code": "g",
+          "title": "Additional requirements for powered-lift operations are set forth in part 194 of this chapter."
+        }
+      ],
+      "91.103": [
+        {
+          "code": "a",
+          "title": "For a flight under IFR or a flight not in the vicinity of an airport, weather reports and forecasts, fuel requirements, alternatives available if…"
+        },
+        {
+          "code": "b",
+          "title": "For any flight, runway lengths at airports of intended use, and the following takeoff and landing distance information:"
+        }
+      ],
+      "91.105": [
+        {
+          "code": "a",
+          "title": "During takeoff and landing, and while en route, each required flight crewmember shall—…"
+        },
+        {
+          "code": "b",
+          "title": "Each required flight crewmember of a U.S.-registered civil aircraft shall, during takeoff and landing, keep his or her shoulder harness fastened…"
+        }
+      ],
+      "91.107": [
+        {
+          "code": "a",
+          "title": "Unless otherwise authorized by the Administrator—…"
+        },
+        {
+          "code": "b",
+          "title": "Unless otherwise stated, this section does not apply to operations conducted under part 121, 125, or 135 of this chapter."
+        }
+      ],
+      "91.11": [],
+      "91.111": [
+        {
+          "code": "a",
+          "title": "No person may operate an aircraft so close to another aircraft as to create a collision hazard."
+        },
+        {
+          "code": "b",
+          "title": "No person may operate an aircraft in formation flight except by arrangement with the pilot in command of each aircraft in the formation."
+        },
+        {
+          "code": "c",
+          "title": "No person may operate an aircraft, carrying passengers for hire, in formation flight."
+        }
+      ],
+      "91.113": [
+        {
+          "code": "a",
+          "title": "Inapplicability"
+        },
+        {
+          "code": "b",
+          "title": "General"
+        },
+        {
+          "code": "c",
+          "title": "In distress"
+        },
+        {
+          "code": "d",
+          "title": "Converging."
+        },
+        {
+          "code": "e",
+          "title": "Approaching head-on"
+        },
+        {
+          "code": "f",
+          "title": "Overtaking"
+        },
+        {
+          "code": "g",
+          "title": "Landing"
+        }
+      ],
+      "91.115": [
+        {
+          "code": "a",
+          "title": "General"
+        },
+        {
+          "code": "b",
+          "title": "Crossing"
+        },
+        {
+          "code": "c",
+          "title": "Approaching head-on"
+        },
+        {
+          "code": "d",
+          "title": "Overtaking"
+        },
+        {
+          "code": "e",
+          "title": "Special circumstances"
+        }
+      ],
+      "91.117": [
+        {
+          "code": "a",
+          "title": "Unless otherwise authorized by the Administrator, no person may operate an aircraft below 10,000 feet MSL at an indicated airspeed of more than…"
+        },
+        {
+          "code": "b",
+          "title": "Unless otherwise authorized or required by ATC, no person may operate an aircraft at or below 2,500 feet above the surface within 4 nautical miles…"
+        },
+        {
+          "code": "c",
+          "title": "No person may operate an aircraft in the airspace underlying a Class B airspace area designated for an airport or in a VFR corridor designated…"
+        },
+        {
+          "code": "d",
+          "title": "If the minimum safe airspeed for any particular operation is greater than the maximum speed prescribed in this section, the aircraft may be…"
+        }
+      ],
+      "91.119": [
+        {
+          "code": "a",
+          "title": "Anywhere"
+        },
+        {
+          "code": "b",
+          "title": "Over congested areas"
+        },
+        {
+          "code": "c",
+          "title": "Over other than congested areas"
+        },
+        {
+          "code": "d",
+          "title": "Helicopters, powered parachutes, and weight-shift-control aircraft"
+        }
+      ],
+      "91.121": [
+        {
+          "code": "a",
+          "title": "Each person operating an aircraft shall maintain the cruising altitude or flight level of that aircraft, as the case may be, by reference to an…"
+        },
+        {
+          "code": "b",
+          "title": "The lowest usable flight level is determined by the atmospheric pressure in the area of operation as shown in the following table:"
+        },
+        {
+          "code": "c",
+          "title": "To convert minimum altitude prescribed under §§ 91.119 and 91.177 to the minimum flight level, the pilot shall take the flight level equivalent of…"
+        }
+      ],
+      "91.123": [
+        {
+          "code": "a",
+          "title": "When an ATC clearance has been obtained, no pilot in command may deviate from that clearance unless an amended clearance is obtained, an emergency…"
+        },
+        {
+          "code": "b",
+          "title": "Except in an emergency, no person may operate an aircraft contrary to an ATC instruction in an area in which air traffic control is exercised."
+        },
+        {
+          "code": "c",
+          "title": "Each pilot in command who, in an emergency, or in response to a traffic alert and collision avoidance system resolution advisory, deviates from an…"
+        },
+        {
+          "code": "d",
+          "title": "Each pilot in command who (though not deviating from a rule of this subpart) is given priority by ATC in an emergency, shall submit a detailed…"
+        },
+        {
+          "code": "e",
+          "title": "Unless otherwise authorized by ATC, no person operating an aircraft may operate that aircraft according to any clearance or instruction that has…"
+        }
+      ],
+      "91.125": [],
+      "91.126": [
+        {
+          "code": "a",
+          "title": "General"
+        },
+        {
+          "code": "b",
+          "title": "Direction of turns"
+        },
+        {
+          "code": "c",
+          "title": "Flap settings"
+        },
+        {
+          "code": "d",
+          "title": "Communications with control towers"
+        }
+      ],
+      "91.127": [
+        {
+          "code": "a",
+          "title": "Unless otherwise required by part 93 of this chapter or unless otherwise authorized or required by the ATC facility having jurisdiction over the…"
+        },
+        {
+          "code": "b",
+          "title": "Departures"
+        },
+        {
+          "code": "c",
+          "title": "Communications with control towers"
+        }
+      ],
+      "91.129": [
+        {
+          "code": "a",
+          "title": "General"
+        },
+        {
+          "code": "b",
+          "title": "Deviations"
+        },
+        {
+          "code": "c",
+          "title": "Communications"
+        },
+        {
+          "code": "d",
+          "title": "Communications failure"
+        },
+        {
+          "code": "e",
+          "title": "Minimum altitudes when operating to an airport in Class D airspace"
+        },
+        {
+          "code": "f",
+          "title": "Approaches"
+        },
+        {
+          "code": "g",
+          "title": "Departures"
+        },
+        {
+          "code": "h",
+          "title": "Noise abatement"
+        },
+        {
+          "code": "i",
+          "title": "From the primary airport or satellite airport with an operating control tower must establish and maintain two-way radio communications with the…"
+        }
+      ],
+      "91.13": [
+        {
+          "code": "a",
+          "title": "Aircraft operations for the purpose of air navigation"
+        },
+        {
+          "code": "b",
+          "title": "Aircraft operations other than for the purpose of air navigation"
+        }
+      ],
+      "91.130": [
+        {
+          "code": "a",
+          "title": "General"
+        },
+        {
+          "code": "b",
+          "title": "Traffic patterns"
+        },
+        {
+          "code": "c",
+          "title": "Communications"
+        },
+        {
+          "code": "d",
+          "title": "Equipment requirements"
+        },
+        {
+          "code": "e",
+          "title": "Deviations"
+        }
+      ],
+      "91.131": [
+        {
+          "code": "a",
+          "title": "Operating rules"
+        },
+        {
+          "code": "b",
+          "title": "Pilot requirements"
+        },
+        {
+          "code": "c",
+          "title": "Communications and navigation equipment requirements"
+        },
+        {
+          "code": "d",
+          "title": "Other equipment requirements"
+        }
+      ],
+      "91.133": [
+        {
+          "code": "a",
+          "title": "No person may operate an aircraft within a restricted area (designated in part 73) contrary to the restrictions imposed, or within a prohibited…"
+        },
+        {
+          "code": "b",
+          "title": "Each person conducting, within a restricted area, an aircraft operation (approved by the using agency) that creates the same hazards as the…"
+        }
+      ],
+      "91.135": [
+        {
+          "code": "a",
+          "title": "Clearance"
+        },
+        {
+          "code": "b",
+          "title": "Communications"
+        },
+        {
+          "code": "c",
+          "title": "Equipment requirements"
+        },
+        {
+          "code": "d",
+          "title": "ATC authorizations"
+        }
+      ],
+      "91.137": [
+        {
+          "code": "a",
+          "title": "The Administrator will issue a Notice to Airmen (NOTAM) designating an area within which temporary flight restrictions apply and specifying the…"
+        },
+        {
+          "code": "b",
+          "title": "When a NOTAM has been issued under paragraph (a)(1) of this section, no person may operate an aircraft within the designated area unless that…"
+        },
+        {
+          "code": "c",
+          "title": "When a NOTAM has been issued under paragraph (a)(2) of this section, no person may operate an aircraft within the designated area unless at least…"
+        },
+        {
+          "code": "d",
+          "title": "When a NOTAM has been issued under paragraph (a)(3) of this section, no person may operate an aircraft within the designated area unless at least…"
+        },
+        {
+          "code": "e",
+          "title": "Flight plans filed and notifications made with an FSS or ATC facility under this section shall include the following information:"
+        }
+      ],
+      "91.15": [],
+      "91.151": [
+        {
+          "code": "a",
+          "title": "No person may begin a flight in an airplane under VFR conditions unless (considering wind and forecast weather conditions) there is enough fuel to…"
+        },
+        {
+          "code": "b",
+          "title": "No person may begin a flight in a rotorcraft under VFR conditions unless (considering wind and forecast weather conditions) there is enough fuel…"
+        }
+      ],
+      "91.153": [
+        {
+          "code": "a",
+          "title": "Information required"
+        },
+        {
+          "code": "b",
+          "title": "Cancellation"
+        }
+      ],
+      "91.155": [
+        {
+          "code": "a",
+          "title": "Except as provided in paragraph (b) of this section and § 91.157, no person may operate an aircraft under VFR when the flight visibility is less,…"
+        },
+        {
+          "code": "b",
+          "title": "Class G Airspace"
+        },
+        {
+          "code": "c",
+          "title": "Except as provided in § 91.157, no person may operate an aircraft beneath the ceiling under VFR within the lateral boundaries of controlled…"
+        },
+        {
+          "code": "d",
+          "title": "Except as provided in § 91.157 of this part, no person may take off or land an aircraft, or enter the traffic pattern of an airport, under VFR,…"
+        },
+        {
+          "code": "e",
+          "title": "For the purpose of this section, an aircraft operating at the base altitude of a Class E airspace area is considered to be within the airspace…"
+        }
+      ],
+      "91.157": [
+        {
+          "code": "a",
+          "title": "Except as provided in appendix D, section 3, of this part, special VFR operations may be conducted under the weather minimums and requirements of…"
+        },
+        {
+          "code": "b",
+          "title": "Special VFR operations may only be conducted—…"
+        },
+        {
+          "code": "c",
+          "title": "No person may take off or land an aircraft (other than a helicopter) under special VFR—…"
+        },
+        {
+          "code": "d",
+          "title": "The determination of visibility by a pilot in accordance with paragraph (c)(2) of this section is not an official weather report or an official…"
+        }
+      ],
+      "91.159": [
+        {
+          "code": "a",
+          "title": "When operating below 18,000 feet MSL and—…"
+        },
+        {
+          "code": "b",
+          "title": "When operating above 18,000 feet MSL, maintain the altitude or flight level assigned by ATC."
+        }
+      ],
+      "91.167": [
+        {
+          "code": "a",
+          "title": "No person may operate a civil aircraft in IFR conditions unless it carries enough fuel (considering weather reports and forecasts and weather…"
+        },
+        {
+          "code": "b",
+          "title": "Paragraph (a)(2) of this section does not apply if:"
+        }
+      ],
+      "91.169": [
+        {
+          "code": "a",
+          "title": "Information required"
+        },
+        {
+          "code": "b",
+          "title": "Paragraph (a)(2) of this section does not apply if :"
+        },
+        {
+          "code": "c",
+          "title": "IFR alternate airport weather minima"
+        },
+        {
+          "code": "d",
+          "title": "Cancellation"
+        }
+      ],
+      "91.17": [
+        {
+          "code": "a",
+          "title": "Prohibits crewmember service while impaired by alcohol or drugs."
+        },
+        {
+          "code": "b",
+          "title": "Prohibits pilots from allowing an impaired person to act as a crewmember, except in an emergency."
+        },
+        {
+          "code": "c",
+          "title": "Requires crewmembers to comply with alcohol-testing procedures."
+        },
+        {
+          "code": "d",
+          "title": "Whenever the Administrator has a reasonable basis to believe that a person may have violated paragraph (a)(3) of this section, that person shall,…"
+        },
+        {
+          "code": "e",
+          "title": "Any test information obtained by the Administrator under paragraph (c) or (d) of this section may be evaluated in determining a person's…"
+        }
+      ],
+      "91.171": [
+        {
+          "code": "a",
+          "title": "No person may operate a civil aircraft under IFR using the VOR system of radio navigation unless the VOR equipment of that aircraft—…"
+        },
+        {
+          "code": "b",
+          "title": "Except as provided in paragraph (c) of this section, each person conducting a VOR check under paragraph (a)(2) of this section shall—…"
+        },
+        {
+          "code": "c",
+          "title": "If dual system VOR (units independent of each other except for the antenna) is installed in the aircraft, the person checking the equipment may…"
+        },
+        {
+          "code": "d",
+          "title": "Each person making the VOR operational check, as specified in paragraph (b) or (c) of this section, shall enter the date, place, bearing error,…"
+        }
+      ],
+      "91.173": [
+        {
+          "code": "a",
+          "title": "Filed an IFR flight plan; and…"
+        },
+        {
+          "code": "b",
+          "title": "Received an appropriate ATC clearance."
+        }
+      ],
+      "91.175": [
+        {
+          "code": "a",
+          "title": "Instrument approaches to civil airports"
+        },
+        {
+          "code": "b",
+          "title": "Authorized DA/DH or MDA"
+        },
+        {
+          "code": "c",
+          "title": "Operation below DA/DH or MDA"
+        },
+        {
+          "code": "d",
+          "title": "Landing"
+        },
+        {
+          "code": "e",
+          "title": "Missed approach procedures"
+        },
+        {
+          "code": "f",
+          "title": "Civil airport takeoff minimums"
+        },
+        {
+          "code": "g",
+          "title": "Military airports"
+        },
+        {
+          "code": "h",
+          "title": "Comparable values of RVR and ground visibility"
+        },
+        {
+          "code": "i",
+          "title": "The approach light system, except that the pilot may not descend below 100 feet above the touchdown zone elevation using the approach lights as a…"
+        },
+        {
+          "code": "j",
+          "title": "Limitation on procedure turns"
+        },
+        {
+          "code": "k",
+          "title": "ILS components"
+        }
+      ],
+      "91.177": [
+        {
+          "code": "a",
+          "title": "Operation of aircraft at minimum altitudes"
+        },
+        {
+          "code": "b",
+          "title": "Climb"
+        }
+      ],
+      "91.179": [
+        {
+          "code": "a",
+          "title": "In controlled airspace"
+        },
+        {
+          "code": "b",
+          "title": "In uncontrolled airspace"
+        }
+      ],
+      "91.205": [
+        {
+          "code": "a",
+          "title": "General"
+        },
+        {
+          "code": "b",
+          "title": "Visual-flight rules (day)"
+        },
+        {
+          "code": "c",
+          "title": "Visual flight rules (night)"
+        },
+        {
+          "code": "d",
+          "title": "Instrument flight rules"
+        },
+        {
+          "code": "e",
+          "title": "Flight at and above 24,000 feet MSL (FL 240)"
+        },
+        {
+          "code": "f",
+          "title": "Category II operations"
+        },
+        {
+          "code": "g",
+          "title": "Category III operations"
+        },
+        {
+          "code": "h",
+          "title": "Night vision goggle operations"
+        },
+        {
+          "code": "i",
+          "title": "The date of manufacture of an airplane is the date the inspection acceptance records reflect that the airplane is complete and meets the…"
+        }
+      ],
+      "91.207": [
+        {
+          "code": "a",
+          "title": "Except as provided in paragraphs (e) and (f) of this section, no person may operate a U.S.-registered civil airplane unless—…"
+        },
+        {
+          "code": "b",
+          "title": "Each emergency locator transmitter required by paragraph (a) of this section must be attached to the airplane in such a manner that the…"
+        },
+        {
+          "code": "c",
+          "title": "Batteries used in the emergency locator transmitters required by paragraphs (a) and (b) of this section must be replaced (or recharged, if the…"
+        },
+        {
+          "code": "d",
+          "title": "Each emergency locator transmitter required by paragraph (a) of this section must be inspected within 12 calendar months after the last inspection…"
+        },
+        {
+          "code": "e",
+          "title": "Notwithstanding paragraph (a) of this section, a person may—…"
+        },
+        {
+          "code": "f",
+          "title": "Paragraph (a) of this section does not apply to—…"
+        }
+      ],
+      "91.209": [
+        {
+          "code": "a",
+          "title": "During the period from sunset to sunrise (or, in Alaska, during the period a prominent unlighted object cannot be seen from a distance of 3…"
+        },
+        {
+          "code": "b",
+          "title": "Operate an aircraft that is equipped with an anticollision light system, unless it has lighted anticollision lights."
+        }
+      ],
+      "91.21": [
+        {
+          "code": "a",
+          "title": "Except as provided in paragraph (b) of this section, no person may operate, nor may any operator or pilot in command of an aircraft allow the…"
+        },
+        {
+          "code": "b",
+          "title": "Paragraph (a) of this section does not apply to—…"
+        },
+        {
+          "code": "c",
+          "title": "In the case of an aircraft operated by a holder of an air carrier operating certificate or an operating certificate, the determination required by…"
+        }
+      ],
+      "91.211": [
+        {
+          "code": "a",
+          "title": "General"
+        },
+        {
+          "code": "b",
+          "title": "Pressurized cabin aircraft"
+        }
+      ],
+      "91.213": [
+        {
+          "code": "a",
+          "title": "Except as provided in paragraph (d) of this section, no person may take off an aircraft with inoperative instruments or equipment installed unless…"
+        },
+        {
+          "code": "b",
+          "title": "The following instruments and equipment may not be included in a Minimum Equipment List:"
+        },
+        {
+          "code": "c",
+          "title": "A person authorized to use an approved Minimum Equipment List issued for a specific aircraft under subpart K of this part, part 121, 125, or 135…"
+        },
+        {
+          "code": "d",
+          "title": "Except for operations conducted in accordance with paragraph (a) or (c) of this section, a person may takeoff an aircraft in operations conducted…"
+        },
+        {
+          "code": "e",
+          "title": "Notwithstanding any other provision of this section, an aircraft with inoperable instruments or equipment may be operated under a special flight…"
+        }
+      ],
+      "91.215": [
+        {
+          "code": "a",
+          "title": "All airspace: U.S.-registered civil aircraft"
+        },
+        {
+          "code": "b",
+          "title": "All airspace"
+        },
+        {
+          "code": "c",
+          "title": "Transponder-on operation"
+        },
+        {
+          "code": "d",
+          "title": "ATC authorized deviations"
+        },
+        {
+          "code": "e",
+          "title": "Unmanned aircraft"
+        }
+      ],
+      "91.217": [
+        {
+          "code": "a",
+          "title": "No person may operate any automatic pressure altitude reporting equipment associated with a radar beacon transponder—…"
+        },
+        {
+          "code": "b",
+          "title": "No person may operate any automatic pressure altitude reporting equipment associated with a radar beacon transponder or with ADS-B Out equipment…"
+        }
+      ],
+      "91.225": [
+        {
+          "code": "a",
+          "title": "After January 1, 2020, unless otherwise authorized by ATC, no person may operate an aircraft in Class A airspace unless the aircraft has equipment…"
+        },
+        {
+          "code": "b",
+          "title": "After January 1, 2020, except as prohibited in paragraph (h)(2) of this section or unless otherwise authorized by ATC, no person may operate an…"
+        },
+        {
+          "code": "c",
+          "title": "Operators with equipment installed with an approved deviation under § 21.618 of this chapter also are in compliance with this section."
+        },
+        {
+          "code": "d",
+          "title": "After January 1, 2020, except as prohibited in paragraph (h)(2) of this section or unless otherwise authorized by ATC, no person may operate an…"
+        },
+        {
+          "code": "e",
+          "title": "The requirements of paragraph (b) of this section do not apply to any aircraft that was not originally certificated with an engine-driven…"
+        },
+        {
+          "code": "f",
+          "title": "Except as prohibited in paragraph (h)(2) of this section, each person operating an aircraft equipped with ADS-B Out must operate this equipment in…"
+        },
+        {
+          "code": "g",
+          "title": "Requests for ATC authorized deviations from the requirements of this section must be made to the ATC facility having jurisdiction over the…"
+        },
+        {
+          "code": "h",
+          "title": "For unmanned aircraft:"
+        },
+        {
+          "code": "i",
+          "title": "TSO-C166b and Section 2 of RTCA DO-260B (as referenced in TSO-C166b); or…"
+        }
+      ],
+      "91.3": [
+        {
+          "code": "a",
+          "title": "The pilot in command of an aircraft is directly responsible for, and is the final authority as to, the operation of that aircraft."
+        },
+        {
+          "code": "b",
+          "title": "In an in-flight emergency requiring immediate action, the pilot in command may deviate from any rule of this part to the extent required to meet…"
+        },
+        {
+          "code": "c",
+          "title": "Each pilot in command who deviates from a rule under paragraph (b) of this section shall, upon the request of the Administrator, send a written…"
+        }
+      ],
+      "91.303": [
+        {
+          "code": "a",
+          "title": "Over any congested area of a city, town, or settlement;…"
+        },
+        {
+          "code": "b",
+          "title": "Over an open air assembly of persons;…"
+        },
+        {
+          "code": "c",
+          "title": "Within the lateral boundaries of the surface areas of Class B, Class C, Class D, or Class E airspace designated for an airport;…"
+        },
+        {
+          "code": "d",
+          "title": "Within 4 nautical miles of the center line of any Federal airway;…"
+        },
+        {
+          "code": "e",
+          "title": "Below an altitude of 1,500 feet above the surface; or…"
+        },
+        {
+          "code": "f",
+          "title": "When flight visibility is less than 3 statute miles."
+        }
+      ],
+      "91.307": [
+        {
+          "code": "a",
+          "title": "No pilot of a civil aircraft may allow a parachute that is available for emergency use to be carried in that aircraft unless it is an approved…"
+        },
+        {
+          "code": "b",
+          "title": "Except in an emergency, no pilot in command may allow, and no person may conduct, a parachute operation from an aircraft within the United States…"
+        },
+        {
+          "code": "c",
+          "title": "Unless each occupant of the aircraft is wearing an approved parachute, no pilot of a civil aircraft carrying any person (other than a crewmember)…"
+        },
+        {
+          "code": "d",
+          "title": "Paragraph (c) of this section does not apply to—…"
+        },
+        {
+          "code": "e",
+          "title": "approved parachute"
+        }
+      ],
+      "91.309": [
+        {
+          "code": "a",
+          "title": "No person may operate a civil aircraft towing a glider or unpowered ultralight vehicle unless—…"
+        },
+        {
+          "code": "b",
+          "title": "No pilot of a civil aircraft may intentionally release a towline, after release of a glider or unpowered ultralight vehicle, in a manner that…"
+        }
+      ],
+      "91.313": [
+        {
+          "code": "a",
+          "title": "No person may operate a restricted category civil aircraft—…"
+        },
+        {
+          "code": "b",
+          "title": "For the purpose of paragraph (a) of this section, the following operations are considered necessary to accomplish the work activity directly…"
+        },
+        {
+          "code": "c",
+          "title": "No person may operate a restricted category civil aircraft carrying persons or property for compensation or hire."
+        },
+        {
+          "code": "d",
+          "title": "No person may be carried on a restricted category civil aircraft unless that person—…"
+        },
+        {
+          "code": "e",
+          "title": "Except when operating in accordance with the terms and conditions of a certificate of waiver or special operating limitations issued by the…"
+        },
+        {
+          "code": "f",
+          "title": "This section does not apply to nonpassenger-carrying civil rotorcraft external-load operations conducted under part 133 of this chapter."
+        },
+        {
+          "code": "g",
+          "title": "No person may operate a small restricted-category civil airplane manufactured after July 18, 1978, unless an approved shoulder harness or…"
+        },
+        {
+          "code": "h",
+          "title": "(1) An operator may apply for deviation authority from the provisions of paragraph (a) of this section to conduct operations for the following…"
+        },
+        {
+          "code": "i",
+          "title": "Flight training and the practical test for issuance of a type rating provided—…"
+        }
+      ],
+      "91.319": [
+        {
+          "code": "a",
+          "title": "Except as provided in § 91.326, no person may operate an aircraft that has an experimental certificate—…"
+        },
+        {
+          "code": "b",
+          "title": "No person may operate an aircraft that has an experimental certificate outside of an area assigned by the Administrator until it is shown that—…"
+        },
+        {
+          "code": "c",
+          "title": "Unless otherwise authorized by the Administrator in special operating limitations, no person may operate an aircraft that has an experimental…"
+        },
+        {
+          "code": "d",
+          "title": "Each person operating an aircraft that has an experimental certificate shall—…"
+        },
+        {
+          "code": "e",
+          "title": "No person may operate a light-sport aircraft that is issued an experimental certificate under § 21.191 of this chapter for compensation or hire,…"
+        },
+        {
+          "code": "f",
+          "title": "No person may lease a light-sport aircraft that is issued an experimental certificate under § 21.191 of this chapter, except—…"
+        },
+        {
+          "code": "g",
+          "title": "No person may operate an aircraft issued an experimental airworthiness certificate under § 21.191(i)(1) of this chapter to tow a glider that is a…"
+        },
+        {
+          "code": "h",
+          "title": "[Reserved]"
+        },
+        {
+          "code": "i",
+          "title": "Require an air carrier or commercial operator certificate issued under part 119 of this chapter;…"
+        },
+        {
+          "code": "j",
+          "title": "No person may operate an aircraft that has an experimental certificate under § 61.113(i) of this chapter unless the aircraft is carrying not more…"
+        }
+      ],
+      "91.403": [
+        {
+          "code": "a",
+          "title": "The owner or operator of an aircraft is primarily responsible for maintaining that aircraft in an airworthy condition, including compliance with…"
+        },
+        {
+          "code": "b",
+          "title": "No person may perform maintenance, preventive maintenance, or alterations on an aircraft other than as prescribed in this subpart and other…"
+        },
+        {
+          "code": "c",
+          "title": "No person may operate an aircraft for which a manufacturer's maintenance manual or instructions for continued airworthiness has been issued that…"
+        },
+        {
+          "code": "d",
+          "title": "A person must not alter an aircraft based on a supplemental type certificate unless the owner or operator of the aircraft is the holder of the…"
+        }
+      ],
+      "91.405": [
+        {
+          "code": "a",
+          "title": "Shall have that aircraft inspected as prescribed in subpart E of this part and shall between required inspections, except as provided in paragraph…"
+        },
+        {
+          "code": "b",
+          "title": "Shall ensure that maintenance personnel make appropriate entries in the aircraft maintenance records indicating the aircraft has been approved for…"
+        },
+        {
+          "code": "c",
+          "title": "Shall have any inoperative instrument or item of equipment, permitted to be inoperative by § 91.213(d)(2) of this part, repaired, replaced,…"
+        },
+        {
+          "code": "d",
+          "title": "When listed discrepancies include inoperative instruments or equipment, shall ensure that a placard has been installed as required by § 43.11 of…"
+        }
+      ],
+      "91.407": [
+        {
+          "code": "a",
+          "title": "No person may operate any aircraft that has undergone maintenance, preventive maintenance, rebuilding, or alteration unless—…"
+        },
+        {
+          "code": "b",
+          "title": "No person may carry any person (other than crewmembers) in an aircraft that has been maintained, rebuilt, or altered in a manner that may have…"
+        },
+        {
+          "code": "c",
+          "title": "The aircraft does not have to be flown as required by paragraph (b) of this section if, prior to flight, ground tests, inspection, or both show…"
+        }
+      ],
+      "91.409": [
+        {
+          "code": "a",
+          "title": "Except as provided in paragraph (c) of this section, no person may operate an aircraft unless, within the preceding 12 calendar months, it has had—…"
+        },
+        {
+          "code": "b",
+          "title": "Except as provided in paragraph (c) of this section, no person may operate an aircraft carrying any person (other than a crewmember) for hire, and…"
+        },
+        {
+          "code": "c",
+          "title": "Paragraphs (a) and (b) of this section do not apply to—…"
+        },
+        {
+          "code": "d",
+          "title": "Progressive inspection"
+        },
+        {
+          "code": "e",
+          "title": "Large airplanes (to which part 125 is not applicable), turbojet multiengine airplanes, turbopropeller-powered multiengine airplanes, and turbine-powered rotorcraft"
+        },
+        {
+          "code": "f",
+          "title": "Selection of inspection program under paragraph (e) of this section"
+        },
+        {
+          "code": "g",
+          "title": "Inspection program approved under paragraph (e) of this section"
+        },
+        {
+          "code": "h",
+          "title": "Changes from one inspection program to another"
+        }
+      ],
+      "91.411": [
+        {
+          "code": "a",
+          "title": "No person may operate an airplane, or helicopter, in controlled airspace under IFR unless—…"
+        },
+        {
+          "code": "b",
+          "title": "The tests required by paragraph (a) of this section must be conducted by—…"
+        },
+        {
+          "code": "c",
+          "title": "Altimeter and altitude reporting equipment approved under Technical Standard Orders are considered to be tested and inspected as of the date of…"
+        },
+        {
+          "code": "d",
+          "title": "No person may operate an airplane, or helicopter, in controlled airspace under IFR at an altitude above the maximum altitude at which all…"
+        }
+      ],
+      "91.413": [
+        {
+          "code": "a",
+          "title": "No persons may use an ATC transponder that is specified in 91.215(a), 121.345(c), or § 135.143(c) of this chapter unless, within the preceding 24…"
+        },
+        {
+          "code": "b",
+          "title": "Following any installation or maintenance on an ATC transponder where data correspondence error could be introduced, the integrated system has…"
+        },
+        {
+          "code": "c",
+          "title": "The tests and inspections specified in this section must be conducted by—…"
+        }
+      ],
+      "91.417": [
+        {
+          "code": "a",
+          "title": "Except for work performed in accordance with §§ 91.411 and 91.413, each registered owner or operator shall keep the following records for the…"
+        },
+        {
+          "code": "b",
+          "title": "The owner or operator shall retain the following records for the periods prescribed:"
+        },
+        {
+          "code": "c",
+          "title": "The owner or operator shall make all maintenance records required to be kept by this section available for inspection by the Administrator or any…"
+        },
+        {
+          "code": "d",
+          "title": "When a fuel tank is installed within the passenger compartment or a baggage compartment pursuant to part 43 of this chapter, a copy of FAA Form…"
+        }
+      ],
+      "91.5": [],
+      "91.7": [
+        {
+          "code": "a",
+          "title": "No person may operate a civil aircraft unless it is in an airworthy condition."
+        },
+        {
+          "code": "b",
+          "title": "The pilot in command of a civil aircraft is responsible for determining whether that aircraft is in condition for safe flight."
+        }
+      ],
+      "91.9": [
+        {
+          "code": "a",
+          "title": "Requires compliance with approved flight-manual limitations, aircraft markings, and placards."
+        },
+        {
+          "code": "b",
+          "title": "Requires U.S.-registered aircraft to carry and comply with applicable flight-manual and placard information."
+        },
+        {
+          "code": "c",
+          "title": "Requires aircraft identification in accordance with Part 45 or Part 48."
+        },
+        {
+          "code": "d",
+          "title": "Allows brief over-water helicopter flight through height-speed limits for takeoff or landing when safe ditching is available."
+        }
+      ]
+    }
+  }
+}
